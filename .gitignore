@@ -1,5 +1,9 @@
 *
+
+!tasks/
+tasks/*
 !tasks/*.rs
+
 !.gitignore
 !README.md
 !LICENSE.md
