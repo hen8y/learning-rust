@@ -5,7 +5,7 @@ List from [cplusplus-beginner-projects](https://cplusplus.com/forum/beginner/347
 ### Beginner
 
 - [x] A program which finds the factorial of a number entered by the user. (check for all conditions).
-- [ ] A program to convert currency X to currency Y and visa versa.
+- [x] A program to convert currency X to currency Y and visa versa.
 - [ ] A program that print out the following, user will input the top number:
 ```
 *****
