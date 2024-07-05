@@ -3,7 +3,10 @@
 !tasks/
 tasks/*
 !tasks/*.rs
-
+!tasks/random_num_to_function/
+!tasks/random_num_to_function/**
+tasks/random_num_to_function/target
+tasks/random_num_to_function/Cargo.lock
 !.gitignore
 !README.md
 !LICENSE.md

@@ -23,7 +23,7 @@ List from [cplusplus-beginner-projects](https://cplusplus.com/forum/beginner/347
 *******
 
 ```
-- [ ] Develop a program that uses a randomly generated number to select 1 of 3(or more) functions to show the user.
+- [x] Develop a program that uses a randomly generated number to select 1 of 3(or more) functions to show the user.
 - [ ] A guessing game that asks the user to guess a number between 1 and a 100. If you guessed correctly, it will say you win. If your too high or too low it will also let you know.
 - [ ] A program which reverses the numerals in an integer, that is 326 becomes 623.
 - [ ] A program to simulate a simple calculator. It should accept two number from the user along with the required operation to be performed. Addition, Subtraction, Division and Multiplication are the basic operations that should be implemented. Feel free to implement the other operations.
