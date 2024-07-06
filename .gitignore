@@ -3,9 +3,9 @@
 !tasks/
 tasks/*
 !tasks/*.rs
-!tasks/random_num_to_function/
-!tasks/random_num_to_function/**
-tasks/random_num_to_function/target
+!tasks/cargo_tasks/
+!tasks/cargo_tasks/**
+tasks/cargo_tasks/target
 tasks/random_num_to_function/Cargo.lock
 !.gitignore
 !README.md
