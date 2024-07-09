@@ -1,5 +1,5 @@
-mod word_unscrambler_10;
+mod quiz_11;
 
 fn main() {
-    word_unscrambler_10::unscrabble();
+    quiz_11::quiz();
 }

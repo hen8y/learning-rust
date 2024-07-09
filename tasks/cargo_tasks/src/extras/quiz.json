@@ -1,0 +1,83 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris"
+    },
+    {
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "answer": "Harper Lee"
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "answer": "Jupiter"
+    },
+    {
+        "question": "What is the chemical symbol for water?",
+        "answer": "H2O"
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "answer": "Leonardo da Vinci"
+    },
+    {
+        "question": "What is the capital of Japan?",
+        "answer": "Tokyo"
+    },
+    {
+        "question": "What is the smallest prime number?",
+        "answer": "2"
+    },
+    {
+        "question": "Who is known as the 'Father of Computers'?",
+        "answer": "Charles Babbage"
+    },
+    {
+        "question": "What is the speed of light in vacuum?",
+        "answer": "299,792,458 meters per second"
+    },
+    {
+        "question": "What year did the Titanic sink?",
+        "answer": "1912"
+    },
+    {
+        "question": "Who discovered penicillin?",
+        "answer": "Alexander Fleming"
+    },
+    {
+        "question": "What is the main ingredient in guacamole?",
+        "answer": "Avocado"
+    },
+    {
+        "question": "Who was the first man to walk on the moon?",
+        "answer": "Neil Armstrong"
+    },
+    {
+        "question": "What is the capital of Australia?",
+        "answer": "Canberra"
+    },
+    {
+        "question": "What element does 'O' represent on the periodic table?",
+        "answer": "Oxygen"
+    },
+    {
+        "question": "How many continents are there?",
+        "answer": "Seven"
+    },
+    {
+        "question": "Who wrote '1984'?",
+        "answer": "George Orwell"
+    },
+    {
+        "question": "What is the hardest natural substance on Earth?",
+        "answer": "Diamond"
+    },
+    {
+        "question": "What is the largest mammal in the world?",
+        "answer": "Blue whale"
+    },
+    {
+        "question": "In what year did World War II end?",
+        "answer": "1945"
+    }
+]
+

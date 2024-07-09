@@ -10,3 +10,4 @@ tasks/random_num_to_function/Cargo.lock
 !.gitignore
 !README.md
 !LICENSE.md
+!tasks/cargo_tasks/extras/
