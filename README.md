@@ -31,7 +31,7 @@ List from [cplusplus-beginner-projects](https://cplusplus.com/forum/beginner/347
 - [x] A program which reverses the numerals in an integer, that is 326 becomes 623.
 - [x] A program to simulate a simple calculator. It should accept two number from the user along with the required operation to be performed. Addition, Subtraction, Division and Multiplication are the basic operations that should be implemented. Feel free to implement the other operations.
 - [x] Write a program that allows you to input students scores and weights. The program should then calculate a weighted average and score based on the data inputted by the user.
-- [ ] A Perform 4-letter WORD UNSCRAMBLING i.e. List all possible combinations of 4-letters in a word. Ex: The word 'TEST' can be unscrambled as TEST,TETS,TSET,TSTE,TTSE,TTES,etc. 
+- [x] A Perform 4-letter WORD UNSCRAMBLING i.e. List all possible combinations of 4-letters in a word. Ex: The word 'TEST' can be unscrambled as TEST,TETS,TSET,TSTE,TTSE,TTES,etc. 
 
 ### Intermediate
 
