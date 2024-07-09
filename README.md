@@ -36,7 +36,7 @@ List from [cplusplus-beginner-projects](https://cplusplus.com/forum/beginner/347
 ### Intermediate
 
 - [x] A quiz program, which retrieve question, and answer from a file. Then allow the user to take the quiz/count point and return score.
-- [ ] A program that accepts XHTML, parses and removes the tags. Then it prints out the remaining text.
+- [x] A program that accepts XHTML, parses and removes the tags. Then it prints out the remaining text.
 - [ ] A program which performs addition, subtraction, multiplication of matrices. The dimensions of both the matrices would be specified by the user (dynamic memory allocation required). Use of structure or a class to define the matrix would be a good idea.
 - [ ] A program which will perform the job of moving the file from one location to another. The source and destination path will be entered by the user. Perform the required error checking and handle the exceptions accordingly.
 - [ ] A sophisticated linked list class. You should be able to insert and delete nodes anywhere in the list, and the nodes should have pointers to nodes both in front and behind them. 
