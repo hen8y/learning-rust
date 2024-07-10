@@ -1,5 +1,5 @@
-mod quiz_11;
+mod matrix_calculator_13;
 
 fn main() {
-    quiz_11::quiz();
+    matrix_calculator_13::calculate();
 }
